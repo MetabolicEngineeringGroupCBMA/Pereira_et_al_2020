@@ -29,7 +29,7 @@ The notebooks can be previewed on Github [here](notebooks/index.ipynb) or throug
 
 ## Navigation
 
-The [index](notebooks/index.ipynb)ipynb notebook is the place to start as it has links to the other notebooks.
+The [index](notebooks/index.ipynb).ipynb notebook is the place to start as it has links to other notebooks.
 
 Each notebook contain links (usually in the end) to the resulting sequences in Genbank flat file format.
 
