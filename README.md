@@ -1,13 +1,5 @@
 # Lastname et al. 2020
 
-This repository contains Jupyter notebooks describing cloning using
-[Python](https://www.python.org),
-[Jupyter notebooks](https://jupyter.org) and
-[pydna](https://github.com/BjornFJohansson/pydna).
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
-
 The notebooks and other files in this repository accompany the publication:
 
 ![button](accessory/abstract.png)
@@ -21,14 +13,17 @@ The notebooks and other files in this repository accompany the publication:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
+This repository contains Jupyter notebooks (.ipynb) describing cloning using:
+- [Python](https://www.python.org),
+- [Jupyter notebooks](https://jupyter.org) and
+- [pydna](https://github.com/BjornFJohansson/pydna).
 
 The notebooks can be visualized in a number of ways.
 Each notebook (.ipynb) is accompanied by a HTML file with the same name but with an (.html)
 extension. These can be opened in a web browser without installing any software.
 
-The notebooks (.ipynb) can be opened in the browser through the nbviewer service
-[here](http://nbviewer.jupyter.org/github/MetabolicEngineeringGroupCBMA/Cunha_et_al_2017/blob/master/notebooks/index.ipynb)
-or directly in Github [here](notebooks/index.ipynb).
+The notebooks can be previewed on Github [here](notebooks/index.ipynb) or through the nbviewer service
+[here](http://nbviewer.jupyter.org). 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
