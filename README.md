@@ -33,10 +33,8 @@ Pereira, Humberto, Flávio Azevedo, Lucília Domingues, and Björn Johansson. 20
 
 Each notebook contain links (usually in the end) to the resulting sequences.
 
-These notebooks are tested on the github action build service.
-
-This means that the notebook outputs are re-executed and compared with saved
-results once per week to ensure [reproducibility](https://en.wikipedia.org/wiki/Replication_crisis).
+These notebooks are tested on the github action build service oche a week.Notebook outputs are
+re-executed and compared to ensure [reproducibility](https://en.wikipedia.org/wiki/Replication_crisis).
 
 If the badge below is green, all tests gave the expected results.
 
