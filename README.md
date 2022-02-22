@@ -11,9 +11,10 @@ The notebooks and other files in this repository accompany the publication:
 
 ![abstract](accessory/abstract.png)
 
-Ioannidis, J. P. A. (2016). Why Most Clinical Research Is Not Useful. PLoS Medicine, 13(6), e1002049.
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27328301)
-[website](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002049)
+Pereira, Humberto, Flávio Azevedo, Lucília Domingues, and Björn Johansson. 2022. “Expression of Yarrowia Lipolytica Acetyl-CoA Carboxylase in Saccharomyces Cerevisiae and Its Effect on in-Vivo Accumulation of Malonyl-CoA.” *Computational and Structural Biotechnology Journal* 20 (January 1): 779–787.
+
+[PubMed](tbd)
+[website](https://www.sciencedirect.com/science/article/pii/S2001037022000277?via%3Dihub)
 
 
 ![-----------------------------------------------------](accessory/line.png)
