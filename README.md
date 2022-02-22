@@ -40,7 +40,7 @@ results once per week to ensure [reproducibility](https://en.wikipedia.org/wiki/
 
 If the badge below is green, all tests gave the expected results.
 
-[![test jupiter notebooks](https://github.com/MetabolicEngineeringGroupCBMA/Pereira_et_al_2021_PRIVATE/actions/workflows/test_notebooks_workflow.yml/badge.svg)](https://github.com/MetabolicEngineeringGroupCBMA/Pereira_et_al_2021_PRIVATE/actions/workflows/test_notebooks_workflow.yml)
+[![test jupiter notebooks](https://github.com/MetabolicEngineeringGroupCBMA/Pereira_et_al_2022/actions/workflows/test_notebooks_workflow.yml/badge.svg)](https://github.com/MetabolicEngineeringGroupCBMA/Pereira_et_al_2022/actions/workflows/test_notebooks_workflow.yml)
 
 ![-----------------------------------------------------](accessory/line.png)
 
