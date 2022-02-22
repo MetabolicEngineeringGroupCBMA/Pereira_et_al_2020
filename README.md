@@ -50,7 +50,6 @@ The notebooks can be visualized in a number of ways.
 The notebooks (.ipynb) can be viewed directly on Github or through the nbviewer service
 [here](http://nbviewer.jupyter.org/github/MetabolicEngineeringGroupCBMA/Cunha_et_al_2017/blob/master/notebooks/acctet.ipynb)
 
-Each notebook (.ipynb) is accompanied by a HTML file with the same name but with an (.html)
-extension. These static files can be opened in a web browser and viewed without installing any software.
+The Jupyter Notebook Viewer for [chrome](https://chrome.google.com/webstore/detail/jupyter-notebook-viewer/ocabfdicbcamoonfhalkdojedklfcjmf?hl=en) is free and very useful to rapidly view notebooks in the browser.
 
 ![-----------------------------------------------------](accessory/line.png)
