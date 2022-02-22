@@ -1,4 +1,4 @@
-LOCUS       pYPKpw                  5603 bp    DNA     circular     14-JUL-2021
+LOCUS       pYPKpw                  5603 bp    DNA        circular     08-FEB-2022
 DEFINITION  cSEGUID_WeyovdMmqwA4bc9EqEwUDmbo3Lg.
 ACCESSION   accession
 VERSION     version
@@ -6,6 +6,7 @@ KEYWORDS    .
 SOURCE      .
   ORGANISM  . .
 COMMENT     This vector can be linearized with ZraI, AatII, FspAI or EcoRV
+COMMENT     
 COMMENT     ApEinfo:methylated:0
 FEATURES             Location/Qualifiers
      rep_origin      597..597
@@ -37,16 +38,16 @@ FEATURES             Location/Qualifiers
                      /locus_tag="577"
                      /label="577"
                      /ApEinfo_label="577"
-                     /ApEinfo_fwdcolor="cyan"
-                     /ApEinfo_revcolor="green"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#ff0000"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {} 0} width 5 offset 0"
      primer_bind     complement(357..385)
                      /locus_tag="578"
                      /label="578"
                      /ApEinfo_label="578"
-                     /ApEinfo_fwdcolor="cyan"
-                     /ApEinfo_revcolor="green"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#ff0000"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {} 0} width 5 offset 0"
      misc_feature    2601..4039
@@ -74,19 +75,19 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {} 0} width 5 offset 0"
      misc_feature    30..124
-                     /locus_tag="gray"
-                     /label="gray"
-                     /ApEinfo_label="gray"
-                     /ApEinfo_fwdcolor="#828282"
-                     /ApEinfo_revcolor="#828282"
+                     /locus_tag="DIAGONAL STRIPES"
+                     /label="DIAGONAL STRIPES"
+                     /ApEinfo_label="DIAGONAL STRIPES"
+                     /ApEinfo_fwdcolor="#dcdcdc"
+                     /ApEinfo_revcolor="#dcdcdc"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {} 0} width 5 offset 0"
      misc_feature    145..356
-                     /locus_tag="pink"
-                     /label="pink"
-                     /ApEinfo_label="pink"
-                     /ApEinfo_fwdcolor="#fc0fc0"
-                     /ApEinfo_revcolor="#fc0fc0"
+                     /locus_tag="VERTICAL STRIPES"
+                     /label="VERTICAL STRIPES"
+                     /ApEinfo_label="VERTICAL STRIPES"
+                     /ApEinfo_fwdcolor="#dcdcdc"
+                     /ApEinfo_revcolor="#dcdcdc"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {} 0} width 5 offset 0"
      misc_feature    5087..5115
@@ -223,5 +224,5 @@ ORIGIN
      5401 agcagattgt actgagagtg caccatagat cctgaggatc ggggtgataa atcagtctgc
      5461 gccacatcgg gggaaacaaa atggcgcgag atctaaaaaa aaaggctcca aaaggagcct
      5521 ttcgcgctac caggtaacgc gccactccga cgggattaac gagtgccgta aacgacgatg
-     5581 gttttaccgt gtgcggagat cag
+     5581 gttttaccgt gtgcggagat cag   
 //
