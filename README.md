@@ -51,3 +51,15 @@ The notebooks (.ipynb) can be viewed directly on Github or through the nbviewer 
 The Jupyter Notebook Viewer for [chrome](https://chrome.google.com/webstore/detail/jupyter-notebook-viewer/ocabfdicbcamoonfhalkdojedklfcjmf?hl=en) is free and very useful to rapidly view notebooks in the browser.
 
 ![-----------------------------------------------------](accessory/line.png)
+
+
+## Funding
+
+We are grateful for funding from:
+
+[Fundação para a Ciência e Tecnologia](https://www.fct.pt) Portugal (FCT) through project
+FatVal PTDC/EAM-AMB/032506/2017 funded by national funds through the FCT I.P.
+and by the ERDF through the COMPETE2020 – Programa Operacional Competitividade e Internacionalizacão (POCI).
+
+
+CBMA was supported by the strategic program UIDB/04050/2020 funded by national funds through the FCT I.P.
